@@ -34,10 +34,12 @@ body {
     width: 100%;
     min-height: 200px;
     padding-left: 10px;
+    padding-bottom:40px;
 }
 .speaker img {
     padding-right: 10px;
-    height: 180px;
+    padding-bottom: 120px;
+    width: 150px;
     float: left;
 }
 .speaker .name {
